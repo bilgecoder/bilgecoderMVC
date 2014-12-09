@@ -1,0 +1,10 @@
+<?php
+	$mysql=array();
+	$mysql["site"]="localhost";
+	$mysql["kadi"]="root";
+	$mysql["sifre"]="";
+	$mysql["db"]="slckdb";
+	$data["doc"]="http://localhost/bilgecoderMVCv1.0/";
+	$data["file"]=__DIR__;
+	$data["site"]="http://localhost/bilgecoderMVCv1.0";
+?>
